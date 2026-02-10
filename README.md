@@ -1,2 +1,9 @@
 # ECE445_Notebook
-Notebook for ECE445
+Lab Notebook for ECE445
+
+Team 55
+Project: HydroFlora (Context-Aware Watering System)
+
+Team Members: Idris Ispandi (mm120), Delilah Dzulkafli (delilah5)
+
+
