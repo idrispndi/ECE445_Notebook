@@ -12,7 +12,7 @@ Unfortunately we could not get the Board to work again in the short period of ti
 
 Besides the fact that we had to use the bench supply, All the other requirements were fulfilled.
 
-![alt text](final_demo.JPG.jpeg)
+![alt text](images/final_demo.JPG.jpeg)
 
 ### Final Presentation
 
