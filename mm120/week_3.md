@@ -8,8 +8,8 @@
 After discussing with the TA during the __PCB Review__, They mostly said that our design looks good and only had minor suggestions such as routing for imporvemnt.At this point the functionality for ESP capability is pretty much secured if the board works. The next challenge is to convert the design into battery system.  With this feedback in mind we packgaed our design into a gerber file and sent it to __Mingrui__  for the first round PCB design:  
 
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
 
 
 ### Design Document
