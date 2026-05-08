@@ -22,7 +22,7 @@ The Objective was to figure out what was the general hardware that we required a
 
 We decided on the following block diagram:
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 We decided to use the ESP-32s3 WROOM module as it was readily available at the E-shop and it has all the fucntionalities that we were targeting
 
