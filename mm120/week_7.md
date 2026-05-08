@@ -8,7 +8,7 @@ This week we got our first round and second round PCB.
 
 Since this was primarily my design I was in charge of testing and validating them.
 
-Since the first round PCB was not ordered with a mask I had to solder it by hand. 
+Since the first round PCB was not ordered with a mask I had to solder it by component by component. 
 
 It was a slow process and unfortunately burned a few chips in the process.
 
