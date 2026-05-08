@@ -7,7 +7,7 @@
 
 For this Demo the objective was to show that one of our PCB was already working. 
 
-Since I had developed the first round and second round PCB I had handed them to Delilah for Embedded Integration.
+Since I had developed the first round and second round PCB I had handed them to Delilah for Embedded Integration.Any GPIO connections were communicated so she could speak through them in the program
 
 She got the program to run and that was used as a basis for the Progress Demo.
 
