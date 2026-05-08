@@ -14,7 +14,7 @@ At this point Charis was still resolving the issue of stepping down 7.4V to 5V a
 
 In the meantime, I had figured out how to do CADing to use the 3D printer. I had printed 3 iteration of the design And finally settled on the below:  
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 While waiting for Charis to complete the board, I had helped Delilah to complete the validating and testing of the Requirements of the project.
 
