@@ -8,7 +8,7 @@
 
 Upon getting feedback from the Design Review we began developing the prototype of the system. I supplied the Team with the ESP32's components required for prototyping.
 
-For the breadboard DEmo I was responsible for routing and  defining Hardware level behaviour.
+For the breadboard Demo I was responsible for routing and  defining Hardware level behaviour.
 
 The functionality of the System at that point was:
 
