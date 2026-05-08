@@ -15,4 +15,7 @@ Besides the fact that we had to use the bench supply, All the other requirements
 ![alt text](images/final_demo.JPG.jpeg)
 
 ### Final Presentation
+![alt text](images/final_pres.jpeg)
+
+On this day we presented our findings and how our project worked and the general flow of how we developed our project. We answered any questions that were asked to us in regards to how we solve the issues in the project. It was a great run!
 
