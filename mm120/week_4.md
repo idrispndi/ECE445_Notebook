@@ -22,4 +22,4 @@ We took into account the first point into our overall design approach. For the s
 
 After Some research Charis said that she found a suitabl candidate for and LDO that could help supply stable 3.3V to the ESP32 from a 3.7V LiPO battery. This was incorporate in the Design and was packaged and sent as a gerber file.
 
-![alt text](secondround_sensornode.png)
+![alt text](images/secondround_sensornode.png)
